@@ -179,9 +179,5 @@ Tags(
 * `onRemoved` - *callback*
 
 
-## Donate
-It takes time to carry on this project. If you found it useful or learned something from the source code please consider the idea of donating 5, 20, 50 € or whatever you can to support the project.
-- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/dnag88)
-
 ## Issues
 If you encounter problems, open an issue. Pull request are also welcome.
