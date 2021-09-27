@@ -1,8 +1,8 @@
-# flutter_tags (fork)
+# flutter_tags_x
 
 Create beautiful tags quickly and easily.
 
-Forked from ![Dn-a/flutter_tags](https://github.com/Dn-a/flutter_tags)
+Forked from ![Dn-a/flutter_tags](https://github.com/Dn-a/flutter_tags) (Not supported)
 
 ## Installing
 
