@@ -1,16 +1,15 @@
-# flutter_tags
-[![pub package](https://img.shields.io/badge/pub-1.0.0--nullsafety.1-orange.svg)](https://pub.dev/packages/flutter_tags/versions/1.0.0-nullsafety.1)
-[![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://github.com/Solido/awesome-flutter#ui)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/dnag88)
+# flutter_tags (fork)
 
 Create beautiful tags quickly and easily.
 
+Forked from ![Dn-a/flutter_tags](https://github.com/Dn-a/flutter_tags)
+
 ## Installing
-Add this to your package's pubspec.yaml file:
-Null-safety version (Beta) [MORE INFO](https://dart.dev/null-safety)
+
+Add this to your package's pubspec.yaml file: Null-safety version [MORE INFO](https://dart.dev/null-safety)
 ```dart
 dependencies:
-  flutter_tags: "^1.0.0-nullsafety.1"
+  flutter_tags: ... # last version
 ```
 
 
