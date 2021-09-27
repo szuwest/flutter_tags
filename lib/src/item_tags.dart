@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_tags/src/tags.dart';
+import 'package:flutter_tags_x/src/tags.dart';
 
 /// Used by [ItemTags.onPressed].
 typedef OnPressedCallback = void Function(Item i);
