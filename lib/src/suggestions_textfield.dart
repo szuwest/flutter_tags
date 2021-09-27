@@ -77,6 +77,7 @@ class _SuggestionsTextFieldState extends State<SuggestionsTextField> {
         ),
         TextField(
           controller: _controller,
+          focusNode: widget.tagsTextField.focusNode,
           enabled: widget.tagsTextField.enabled,
           autofocus: widget.tagsTextField.autofocus ?? true,
           keyboardType: widget.tagsTextField.keyboardType ?? null,
@@ -195,7 +196,9 @@ class TagsTextField {
       this.maxLength,
       this.inputDecoration,
       this.onSubmitted,
-      this.onChanged});
+      this.onChanged,
+      this.focusNode});
+  final FocusNode? focusNode;
 
   final double width;
   final EdgeInsets? padding;
