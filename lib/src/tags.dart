@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../flutter_tags.dart';
+import '../flutter_tags_x.dart';
 import 'util/custom_wrap.dart';
 import 'package:flutter_tags_x/src/suggestions_textfield.dart';
 
