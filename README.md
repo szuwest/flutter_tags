@@ -2,14 +2,14 @@
 
 Create beautiful tags quickly and easily.
 
-Forked from ![Dn-a/flutter_tags](https://github.com/Dn-a/flutter_tags) (Not supported)
+Forked from [Dn-a/flutter_tags](https://github.com/Dn-a/flutter_tags) (Not supported)
 
 ## Installing
 
 Add this to your package's pubspec.yaml file: Null-safety version [MORE INFO](https://dart.dev/null-safety)
 ```dart
 dependencies:
-  flutter_tags: ... # last version
+  flutter_tags_x: ... # last version
 ```
 
 
