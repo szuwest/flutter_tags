@@ -1,3 +1,6 @@
+## [1.1.0] - 2022-06-02
+
+* `[Fixed]` - Flutter 3.0.0 compability 
 ## [1.0.0] - 2021-09-27
 
 * `[Added]` - Null safety support

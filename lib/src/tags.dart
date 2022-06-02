@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../flutter_tags_x.dart';
 import 'util/custom_wrap.dart';
+import 'util/null_helper.dart';
 import 'package:flutter_tags_x/src/suggestions_textfield.dart';
 
 ///ItemBuilder
@@ -93,7 +94,7 @@ class TagsState extends State<Tags> {
 
   //get the current width of the screen
   void _getWidthContext() {
-    WidgetsBinding.instance!.addPostFrameCallback((_) {
+    WidgetsBinding.instance.asNull?.addPostFrameCallback((_) {
       final keyContext = _containerKey.currentContext;
       if (keyContext != null) {
         final RenderBox box = keyContext.findRenderObject() as RenderBox;
