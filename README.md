@@ -9,7 +9,7 @@ Forked from [Dn-a/flutter_tags](https://github.com/Dn-a/flutter_tags) (Not suppo
 Add this to your package's pubspec.yaml file: Null-safety version [MORE INFO](https://dart.dev/null-safety)
 ```dart
 dependencies:
-  flutter_tags: ... # last version
+  flutter_tags_x: ... # last version
 ```
 
 
@@ -178,10 +178,6 @@ Tags(
 * `onLongPressed` - *callback*
 * `onRemoved` - *callback*
 
-
-## Donate
-It takes time to carry on this project. If you found it useful or learned something from the source code please consider the idea of donating 5, 20, 50 € or whatever you can to support the project.
-- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/dnag88)
 
 ## Issues
 If you encounter problems, open an issue. Pull request are also welcome.
